@@ -9,7 +9,7 @@
 
 ## Want to Contribute?
 
-1. help us collecting the accurarate data
+1. help us collecting the accurate data
 2. help in creating an UI
  
  
