@@ -1,4 +1,47 @@
-# allisrailproducts.com
+# All Israel Products  [allisrailproducts.com](https://www.allisrailproducts.com/).
+
+## Overview
+
+**All Israel Products** is a web application dedicated to informing and educating people about products manufactured or produced in Israel. The platform aims to support the Boycott, Divestment, Sanctions (BDS) movement by providing a comprehensive database of these products, thereby encouraging individuals to make informed purchasing decisions in solidarity with Palestine.
+
+## Features
+
+- **Product Database**: A comprehensive list of products made in Israel, categorized by type and brand.
+- **User Reviews and Ratings**: Community-driven reviews and ratings to share experiences and insights about the listed products.
+- **Educational Resources**: Articles, news, and resources about the BDS movement and the impact of supporting Palestinian rights.
+- **Mobile Friendly**: Fully responsive design to ensure accessibility on all devices.
+
+## Getting Started
+
+ 
+### Accessing the Web App
+
+1. Open your preferred web browser.
+2. Navigate to [allisrailproducts.com](https://www.allisrailproducts.com/).
+3. Browse through the categories or use the search bar to find specific products.
+
+## Contribution
+
+We welcome contributions from the community to help improve and expand the database. Here’s how you can contribute:
+
+1. **Report New Products**: If you know of a product not listed, please submit the product details through the "Report a Product" form.
+ 
+3. **Provide Feedback**: Help us improve the platform by providing feedback and suggestions.
+
+### How to Contribute
+
+1. Fork the repository on GitHub.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request on GitHub.
+
+ 
+
+---
+
+By using this platform, you agree to support the principles and objectives of the BDS movement, aimed at ending international support for Israel's oppression of Palestinians and pressuring Israel to comply with international law.
+
 
 ## Setting up allisrailproducts.com locally into you machine
 
@@ -30,4 +73,7 @@ npm install
 npm run dev
 ```
  
+## Contact
+
+If you have any questions, issues, or suggestions, please contact us at allisrailproducts@gmail.com.
  
