@@ -1,15 +1,33 @@
-# allIsrailProducts.com
-#### A website aims to displays all the products of israil to boycott
- 
-## Objectives
+# allisrailproducts.com
 
-### To create a website capable of displaying the correct products of israil
-### make people aware not to use theire products
-### to help the people of gaza
+## Setting up allisrailproducts.com locally into you machine
 
-## Want to Contribute?
+### Forking a Repository
 
-1. help us collecting the accurate data
-2. help in creating an UI
+1. Go to the following repository:[allisrailproducts Repository](https://github.com/allIsrailProducts/frontend).
+2. Click on the "Fork" button on the top right corner to fork the repository to your GitHub account.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/allIsrailProducts/frontend.git
+```
+
+### move inside the Directory
+
+```
+cd frontend
+```
+
+## Install the dependencies
+
+```
+npm install
+```
+
+### 2.Run the application using 
+```
+npm run dev
+```
  
  
