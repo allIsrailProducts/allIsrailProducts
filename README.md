@@ -7,7 +7,7 @@
 ## Features
 
 - **Product Database**: A comprehensive list of products made in Israel, categorized by type and brand.
-- **User Reviews and Ratings**: Community-driven reviews and ratings to share experiences and insights about the listed products.
+ 
 - **Educational Resources**: Articles, news, and resources about the BDS movement and the impact of supporting Palestinian rights.
 - **Mobile Friendly**: Fully responsive design to ensure accessibility on all devices.
 
