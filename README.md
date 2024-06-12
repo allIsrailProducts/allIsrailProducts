@@ -18,13 +18,13 @@
 
 1. Open your preferred web browser.
 2. Navigate to [allisrailproducts.com](https://www.allisrailproducts.com/).
-3. Browse through the categories or use the search bar to find specific products.
+ 
 
 ## Contribution
 
 We welcome contributions from the community to help improve and expand the database. Here’s how you can contribute:
 
-1. **Report New Products**: If you know of a product not listed, please submit the product details through the "Report a Product" form.
+1. **Report New Products**: If you know of a product not listed, please add the product and raise the PR.
  
 3. **Provide Feedback**: Help us improve the platform by providing feedback and suggestions.
 
